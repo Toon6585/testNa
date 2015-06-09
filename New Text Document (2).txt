@@ -1,2 +1,0 @@
-cow_production
-cow_test
